@@ -81,7 +81,7 @@ const HomePage = () => {
           alt="Rings"
           width={500}
           height={50}
-          className="object-contain"
+          className="object-contain rotate-180"
           priority
         />
       </div>
